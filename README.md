@@ -11,6 +11,6 @@
 ##  About Me
 
 I'm a DevOps Engineer with ~3 years of experience building and maintaining CI/CD pipelines,
-cloud infrastructure, and automation frameworks at Kyndryl.
+cloud infrastructure.
 
 ---
